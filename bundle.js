@@ -61,7 +61,7 @@
 /******/ 	
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "7fa9f257dbbf86f74a06"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "a8acfbb89ee3fd651f14"; // eslint-disable-line no-unused-vars
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule; // eslint-disable-line no-unused-vars
@@ -38832,7 +38832,8 @@ var _vueRouter2 = _interopRequireDefault(_vueRouter);
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 var router = new _vueRouter2.default({
-    routes: []
+    routes: [],
+    mode: 'history'
 });
 
 exports.default = router;
