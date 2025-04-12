@@ -1,1 +1,0 @@
-import{_ as e,c as d,o as n,ah as r}from"./chunks/framework.BLxKXO3_.js";const x=JSON.parse('{"title":"API","description":"","frontmatter":{},"headers":[],"relativePath":"guide/api.md","filePath":"en/guide/api.md"}'),l={name:"guide/api.md"};function a(i,t,s,c,o,g){return n(),d("div",null,t[0]||(t[0]=[r("",7)]))}const h=e(l,[["render",a]]);export{x as __pageData,h as default};
